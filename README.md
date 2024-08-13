@@ -9,8 +9,8 @@ Python 3.x
 Step 1: Dowload the dataset from the git (DSS2.csv) 
 Update directory paths in the code to match your local machine setup.
 
-Step 2: Execute the Test Script
-python test.py
+Step 2: Execute the exploratory data analysis script
+python preliminary_work.ipynb
 
 Step 3: Run the Prediction Scripts
 
